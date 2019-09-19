@@ -1,4 +1,35 @@
 <img class="avatar rounded-2" src="https://avatars1.githubusercontent.com/u/30561881?s=400&amp;u=74cdaf2d92a3cc51eaaf7f9129da412e3ba6335c&amp;v=4" width="200" height="200" alt="@salmanafzal25">
+
+
+<div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="/" class="site-avatar"><img src="https://avatars2.githubusercontent.com/u/14185009?v=4&amp;s=400"></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="/">Dattatraya Anarase - iOS Developer, Pune, India.</a></h1>
+            <p class="site-description">I write blogs and tutorials on Swift Programming, Software Development, iOS Apps; Also write about clean coding, programming ethics, best practices.</p>
+          </div>
+
+          <nav>
+            <a href="/">Blogs/Tutorials</a>
+            <!-- <a href="/apps">Apps</a> -->
+            <a href="/about">About</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
 # Salman Afzal - iOS Developer
 
 <!-- # Hello!

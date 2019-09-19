@@ -56,14 +56,6 @@ You might also be interested in [**Swift DateKit**](https://github.com/cmilr/swi
 # Contact Info:
 
 - Email: salmanafzal0900@gmail.com
-- LinkedIn: [carymiller](https://www.linkedin.com/in/salman-afzal-518a87141)
-- Github: [@carycodes](https://github.com/salmanafzal25/iOS-Portfolio.git)
+- LinkedIn: [Salman Afzal](https://www.linkedin.com/in/salman-afzal-518a87141)
+- Github: [@salmanafzal25](https://github.com/salmanafzal25/iOS-Portfolio.git)
 - WhatsApp: +923125236323
-
-
-<h2 id="socialtechnical-media">Social/Technical Media</h2>
-<p>Stackoverflow: <a href="https://stackoverflow.com/users/5546312/d4ttatraya">/users/5546312</a><br>
-Twitter: <a href="https://twitter.com/@D4ttatraya">@D4ttatraya</a><br>
-Github: <a href="https://github.com/salmanafzal25/iOS-Portfolio.git">D4ttatraya</a><br>
-Linkedin: <a href="https://www.linkedin.com/in/dattatraya-anarase">/in/dattatraya-anarase</a></p>
-

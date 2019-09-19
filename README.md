@@ -1,5 +1,6 @@
 <img class="avatar rounded-2" src="https://avatars1.githubusercontent.com/u/30561881?s=400&amp;u=74cdaf2d92a3cc51eaaf7f9129da412e3ba6335c&amp;v=4" width="200" height="200" alt="@salmanafzal25"> 
 
+
 # Salman Afzal - iOS Developer
 
 

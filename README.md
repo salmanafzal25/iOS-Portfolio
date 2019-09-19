@@ -1,6 +1,31 @@
 # Salman Afzal - iOS Developer
 
 
+<div class="entry">
+    <p>Software Engineer as an iOS Developer since <strong>more than 5yrs</strong>. Developed native iOS apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.<br>
+<strong>Open to work on:</strong> macOS, tvOS, watchOS apps, Server side Swift</p>
+
+<h2 id="skills">Skills</h2>
+<p>Currently using <strong>Swift</strong>, 3yrs, through all versions up to recent 4.0<br>
+Started my career with <strong>Objective-C</strong>, used it for 2.5yrs<br>
+<strong>C lang, Core Data, Xcode, GIT/GitFlow, SVN, Unit Tests, TDD</strong><br>
+<strong>Tools:</strong> GitHub, Jira, Skype, Slack, MyCollab</p>
+
+<h2 id="developer-story">Developer Story</h2>
+<p>Find more about me (experience, education, projects) at:<br>
+<a href="https://stackoverflow.com/story/d4ttatraya">Stackoverflow Developer Story</a></p>
+
+<h2 id="contact">Contact</h2>
+<p><a href="mailto:d4ttatraya@gmail.com">d4ttatraya@gmail.com</a></p>
+
+<h2 id="socialtechnical-media">Social/Technical Media</h2>
+<p>Stackoverflow: <a href="https://stackoverflow.com/users/5546312/d4ttatraya">/users/5546312</a><br>
+Twitter: <a href="https://twitter.com/@D4ttatraya">@D4ttatraya</a><br>
+Github: <a href="https://github.com/D4ttatraya">D4ttatraya</a><br>
+Linkedin: <a href="https://www.linkedin.com/in/dattatraya-anarase">/in/dattatraya-anarase</a></p>
+
+  </div>
+
 
 <!-- # Hello!
 *Thanks for stopping by*. This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; please feel free to look around. -->

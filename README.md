@@ -1,29 +1,13 @@
 # Salman Afzal - iOS Developer
 
-
 <div class="entry">
-    <p>Software Engineer as an iOS Developer since <strong>more than 5yrs</strong>. Developed native iOS apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.<br>
-<strong>Open to work on:</strong> macOS, tvOS, watchOS apps, Server side Swift</p>
+    <p>Software Engineer as an iOS Developer since <strong>more than 1.5yrs</strong>. Developed native iOS apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.<br>
+
 
 <h2 id="skills">Skills</h2>
-<p>Currently using <strong>Swift</strong>, 3yrs, through all versions up to recent 4.0<br>
-Started my career with <strong>Objective-C</strong>, used it for 2.5yrs<br>
-<strong>C lang, Core Data, Xcode, GIT/GitFlow, SVN, Unit Tests, TDD</strong><br>
-<strong>Tools:</strong> GitHub, Jira, Skype, Slack, MyCollab</p>
-
-<h2 id="developer-story">Developer Story</h2>
-<p>Find more about me (experience, education, projects) at:<br>
-<a href="https://stackoverflow.com/story/d4ttatraya">Stackoverflow Developer Story</a></p>
-
-<h2 id="contact">Contact</h2>
-<p><a href="mailto:d4ttatraya@gmail.com">d4ttatraya@gmail.com</a></p>
-
-<h2 id="socialtechnical-media">Social/Technical Media</h2>
-<p>Stackoverflow: <a href="https://stackoverflow.com/users/5546312/d4ttatraya">/users/5546312</a><br>
-Twitter: <a href="https://twitter.com/@D4ttatraya">@D4ttatraya</a><br>
-Github: <a href="https://github.com/D4ttatraya">D4ttatraya</a><br>
-Linkedin: <a href="https://www.linkedin.com/in/dattatraya-anarase">/in/dattatraya-anarase</a></p>
-
+<p>Currently using <strong>Swift</strong>, 1.5yrs, through all versions up to recent 5.0<br>
+<strong>Xcode, Unit Tests, CoreData, CoreGraphics, CoreAnimation, Publish iOS app on appstore, Firebase</strong><br>
+<strong>Tools:</strong> GitHub, Bitbucker, Scrum Tools(Redmine, Trello), Skype </p>
   </div>
 
 
@@ -71,7 +55,15 @@ You might also be interested in [**Swift DateKit**](https://github.com/cmilr/swi
 
 # Contact Info:
 
-- Email: cary@cmillerco.com
-- LinkedIn: [carymiller](https://www.linkedin.com/in/carymiller/)
-- Twitter: [@carycodes](https://twitter.com/carycodes)
-- Website: [cmillerco.com](https://cmillerco.com)
+- Email: salmanafzal0900@gmail.com
+- LinkedIn: [carymiller](https://www.linkedin.com/in/salman-afzal-518a87141)
+- Github: [@carycodes](https://github.com/salmanafzal25/iOS-Portfolio.git)
+- WhatsApp: +923125236323
+
+
+<h2 id="socialtechnical-media">Social/Technical Media</h2>
+<p>Stackoverflow: <a href="https://stackoverflow.com/users/5546312/d4ttatraya">/users/5546312</a><br>
+Twitter: <a href="https://twitter.com/@D4ttatraya">@D4ttatraya</a><br>
+Github: <a href="https://github.com/salmanafzal25/iOS-Portfolio.git">D4ttatraya</a><br>
+Linkedin: <a href="https://www.linkedin.com/in/dattatraya-anarase">/in/dattatraya-anarase</a></p>
+

@@ -51,7 +51,6 @@ If you'd like to see what else I've been working on, I recommend taking a look a
 <!-- 
 You might also be interested in [**Swift DateKit**](https://github.com/cmilr/swift-datekit), my library for easily mocking dates and times in Xcode unit and UI tests. Don't be fooled by its small size—**DateKit** is a compact, highly effective set of methods and classes for testing date-critical iOS apps. -->
 
-## Thanks for stopping by!
 
 # Contact Info:
 

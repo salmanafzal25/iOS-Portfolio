@@ -5,7 +5,7 @@
 
 
 <h2 id="skills">Skills</h2>
-<p>Currently using <strong>Swift</strong>, 1.5yrs, through all versions up to recent 5.0<br>
+<p>Currently using <strong>Swift</strong>, 1.5yrs, through all versions up to recent v5.0<br>
 <strong>Xcode, Unit Tests, CoreData, CoreGraphics, CoreAnimation, Publish iOS app on appstore, Firebase</strong><br>
 <strong>Tools:</strong> GitHub, Bitbucker, Scrum Tools(Redmine, Trello), Skype </p>
   </div>

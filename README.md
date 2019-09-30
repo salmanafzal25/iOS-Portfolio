@@ -18,6 +18,10 @@ An app for managing your data or change a plan to be suitable for you. LINE Mobi
 
 ![Line Mobile](https://imgflip.com/gif/3bzi77)
 
+<p align="center">
+<img src="https://imgflip.com/gif/3bzi77" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 
 # DarkRoom
 [DarkRoom](https://github.com/cmilr/dark-room) is a take-home project I recently completed as part of the interview process for an iOS Developer role. The basic requirements for the app were that it display ten currently showing movies and ten upcoming movies, using data from [themoviedb.org](https://www.themoviedb.org/)'s REST api. Choice of design and UI elements were left open to the developer.

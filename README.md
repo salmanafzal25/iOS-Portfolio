@@ -19,7 +19,7 @@ An app for managing your data or change a plan to be suitable for you. LINE Mobi
 ![Line Mobile](https://imgflip.com/gif/3bzi77)
 
 <p align="center">
-<img src="line-mobile.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="line-mobile.png" width="500" height="400"  title="DarkRoom">
 </p>
 
 

@@ -17,7 +17,7 @@
 An app for managing your data or change a plan to be suitable for you. LINE Mobile is a brand new cellular network in Thailand that's just been announce for a few months here in Thailand. I was a part of the team who makes this app.
 
 <p align="center">
-<img src="line-mobile.png" width="640" height="320"  title="DarkRoom">
+<img src="line-mobile.png" width="640" height="280"  title="DarkRoom">
 </p>
 
 

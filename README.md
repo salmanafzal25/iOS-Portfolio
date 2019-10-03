@@ -35,11 +35,8 @@ I'm quite happy with the final product: WEBDOC was built entirely in Swift, with
 
  
 # Taurus Trading
-[Taurus Trading](https://apps.apple.com/us/app/taurus-trading/id1383579184?ls=1) is a take-home project I recently completed as part of the interview process for an iOS Developer role. The basic requirements for the app were that it display ten currently showing movies and ten upcoming movies, using data from [themoviedb.org](https://www.themoviedb.org/)'s REST api. Choice of design and UI elements were left open to the developer.
+[Taurus Trading](https://apps.apple.com/us/app/taurus-trading/id1383579184?ls=1) is an International LTD App is a time saving app allowing the capture of all the container data at time of loading and submitting all the required information in easy simple steps and then submitted to Taurus Trading International LTD at a click. No more compiling of important data after the container has left leaving you to concentrate on other important tasks worry free.
 
-I'm quite happy with the final product: DarkRoom was built entirely in Swift, with no external dependencies, and the UI—which was created using Auto Layout in Interface Builder—is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns.
-
-<!-- <img src="images/darkroom/DarkRoomMaster.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/DarkRoomDetail.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/Darkroom-demo.gif" width="250" align="center" title="Darkroom GIF"><br><br> -->
 
 <p align="center">
 <img src="images/darkroom/DarkRoomMaster.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/DarkRoomDetail.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/Darkroom-demo.gif" width="228" title="DarkRoom">

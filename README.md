@@ -40,7 +40,7 @@ Plan your route with our route planner with integrated Google search.
 I'm quite happy with the final product:  Beeline bike navigation was built entirely in Swift, google maps API and the UI—which was created using Auto Layout in Interface Builder—is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns.
 
 <p align="center">
-<img src="460x0w-1.jpg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="460x0w-2.jpg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mapsCycle3.gif" width="228" title="DarkRoom">
+<img src="460x0w-1.jpg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="460x0w-2.jpg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mapsCycle3.gif" width="228" height = "420" title="DarkRoom">
 </p>
 
 
@@ -55,7 +55,7 @@ I'm quite happy with the final product:  Beeline bike navigation was built entir
  [Brand Mania]() is an entertaining game where you guess the logos of popular companies. Advance through levels of difficulty and strive for the highest score possible. The more logos you guess the more coins you will earn. If you get stuck and don't know an answer, don't give up! use the coins you gathered to get hints or remove unnecessary letters.
 
 <p align="center">
-<img src="brandMania1.PNG" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="brandMania2.PNG" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="brandMania3.gif" width="230" height = "600" title="DarkRoom">
+<img src="brandMania1.PNG" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="brandMania2.PNG" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="brandMania3.gif" width="230" title="DarkRoom">
 </p>
  
  

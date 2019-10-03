@@ -49,7 +49,7 @@ I'm quite happy with the final product:  Beeline bike navigation was built entir
 
 
 <p align="center">
-<img src="images/darkroom/DarkRoomMaster.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/DarkRoomDetail.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/Darkroom-demo.gif" width="228" title="DarkRoom">
+<img src="trading1.PNG" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="trading2.PNG" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="3ca5m7.gif" width="228" title="DarkRoom">
 </p>
 
 

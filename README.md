@@ -33,6 +33,17 @@ I'm quite happy with the final product: WEBDOC was built entirely in Swift, with
 </p>
 
 
+# Beeline bike navigation
+[Beeline bike navigation](https://apps.apple.com/pk/app/beeline-bike-navigation/id1095384281) is companion app by Beeline for Beeline Moto and Beeline Velo: the motorcycle and cycling computers with better navigation. Better riding starts here
+PLAN AND TRACK YOUR RIDE
+Plan your route with our route planner with integrated Google search.
+
+I'm quite happy with the final product:  Beeline bike navigation was built entirely in Swift, google maps API and the UI—which was created using Auto Layout in Interface Builder—is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns.
+
+<p align="center">
+<img src="300x0w-2.jpg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="460x0w.jpg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="300x0w-1.jpg" width="228" title="DarkRoom">
+</p>
+
  
 # Taurus Trading
 [Taurus Trading](https://apps.apple.com/us/app/taurus-trading/id1383579184?ls=1) is an International LTD App is a time saving app allowing the capture of all the container data at time of loading and submitting all the required information in easy simple steps and then submitted to Taurus Trading International LTD at a click. No more compiling of important data after the container has left leaving you to concentrate on other important tasks worry free.

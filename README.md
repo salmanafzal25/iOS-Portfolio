@@ -82,7 +82,14 @@ Who says trivia isn't useful? You will keep your brain sharp with Quiz Me. We ha
 <p align="center">
 <img src="quiz1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="quiz2.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="quiz3.png" width="230" title="DarkRoom">
 </p>
+
  
+   # QBScanner 
+ [QBScanner](https://github.com/salmanafzal25/iOS-Portfolio/blob/master/README.md) is use to scan a QR code or barcode simply open the app, point the camera at the code, and you’re done!
+
+<p align="center">
+<img src="qbScanner1.jpg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qbScanner2.jpg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qbScanner3.jpg" width="230" title="DarkRoom">
+</p>
  
    # Football Clubs Logo Quiz 
  [Football Clubs Logo Quiz](https://appstores.co/app/1116512919/football-clubs-logo-quiz) is a Guess the Football Club logo quiz for fun! No matter you are a football fan or not, you must know some football club logos since it's the most inspirational sport in the world! Now quiz it,football logo quiz, for fun!.

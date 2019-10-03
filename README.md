@@ -9,17 +9,7 @@
 <strong>Xcode, Unit Tests, CoreData, CoreGraphics, CoreAnimation, Publish iOS app on appstore, Firebase</strong><br>
 <strong>Tools:</strong> GitHub, Bitbucker, Jira,Redmine, Trello, Skype </p>
   </div>
-
-
-<!-- # Hello!
-*Thanks for stopping by*. This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; please feel free to look around. -->
-## LINE Mobile
-An app for managing your data or change a plan to be suitable for you. LINE Mobile is a brand new cellular network in Thailand that's just been announce for a few months here in Thailand. I was a part of the team who makes this app.
-
-<p align="center">
-<img src="line-mobile.png" width="640" height="280"  title="DarkRoom">
-</p>
-
+  
 
 # WEBDOC
 [WEBDOC](https://apps.apple.com/us/app/webdoc-be-healthy/id1394395909?ls=1) is a online Doctor's App. The basic requirements for the app were that it help address the health related problem by providing reliable online health platform which connects the Certified and Authorised Doctor’s to the Clients / Patients face to face on video / chat / audio calling.

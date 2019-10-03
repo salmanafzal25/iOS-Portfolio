@@ -43,6 +43,22 @@ I'm quite happy with the final product:  Beeline bike navigation was built entir
 <img src="460x0w-1.jpg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="460x0w-2.jpg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mapsDirection.jpg" width="228" title="DarkRoom">
 </p>
 
+
+# Recordio Voice Note Recorder
+ [Recordio Voice Note Recorder](https://appstores.co/app/1449571837/recordio-voice-note-recorder) is an audio recorder, recorder for lectures, memos, meetings and more. Best recorder for voice recording with high quality voice recorder application is simple and easy to use. Organize and edit recordings on your phone. Share via email.
+
+<p align="center">
+<img src="460x0w-1.jpg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="460x0w-2.jpg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mapsDirection.jpg" width="228" title="DarkRoom">
+</p>
+ 
+ # Brand Mania
+ [Brand Mania]() is an entertaining game where you guess the logos of popular companies. Advance through levels of difficulty and strive for the highest score possible. The more logos you guess the more coins you will earn. If you get stuck and don't know an answer, don't give up! use the coins you gathered to get hints or remove unnecessary letters.
+
+<p align="center">
+<img src="brandMania1.PNG" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="brandMania2.PNG" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="brandMania3.gif" width="228" title="DarkRoom">
+</p>
+ 
+ 
  
 # Taurus Trading
 [Taurus Trading](https://apps.apple.com/us/app/taurus-trading/id1383579184?ls=1) is an International LTD App is a time saving app allowing the capture of all the container data at time of loading and submitting all the required information in easy simple steps and then submitted to Taurus Trading International LTD at a click. No more compiling of important data after the container has left leaving you to concentrate on other important tasks worry free.

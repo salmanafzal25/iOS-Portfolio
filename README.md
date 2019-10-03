@@ -72,7 +72,7 @@ I'm quite happy with the final product:  Beeline bike navigation was built entir
 Who says trivia isn't useful? You will keep your brain sharp with Quiz Me. We have hundreds of challenging trivia questions for you!
 
 <p align="center">
-<img src="quiz1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="quiz1.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="quiz1.png" width="230" title="DarkRoom">
+<img src="quiz1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="quiz2.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="quiz3.png" width="230" title="DarkRoom">
 </p>
  
  

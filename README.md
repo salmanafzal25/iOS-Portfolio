@@ -33,12 +33,9 @@ I'm quite happy with the final product: WEBDOC was built entirely in Swift, with
 </p>
 
 
-
-
-
-
-# DarkRoom
-[DarkRoom](https://github.com/cmilr/dark-room) is a take-home project I recently completed as part of the interview process for an iOS Developer role. The basic requirements for the app were that it display ten currently showing movies and ten upcoming movies, using data from [themoviedb.org](https://www.themoviedb.org/)'s REST api. Choice of design and UI elements were left open to the developer.
+ 
+#Taurus Trading 
+[Taurus Trading](https://apps.apple.com/us/app/taurus-trading/id1383579184?ls=1) is a take-home project I recently completed as part of the interview process for an iOS Developer role. The basic requirements for the app were that it display ten currently showing movies and ten upcoming movies, using data from [themoviedb.org](https://www.themoviedb.org/)'s REST api. Choice of design and UI elements were left open to the developer.
 
 I'm quite happy with the final product: DarkRoom was built entirely in Swift, with no external dependencies, and the UI—which was created using Auto Layout in Interface Builder—is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns.
 

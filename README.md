@@ -6,9 +6,18 @@
 
 <h2 id="skills">Skills</h2>
 <p>Currently using <strong>Swift</strong>, 1.5yrs, through all versions up to recent v5.0<br>
-<strong>Xcode, Unit Tests, CoreData, CoreGraphics, CoreAnimation, Publish iOS app on appstore, Firebase</strong><br>
+<strong>REST, GraphQL(Apollo), Firebase, Unit Tests, CoreData, CoreGraphics, CoreAnimation, Publish iOS app on appstore</strong><br>
 <strong>Tools:</strong> GitHub, Bitbucker, Jira,Redmine, Trello, Skype </p>
   </div>
+  
+  
+  # LUNA (Point Of Sale)
+LUNA Point of Sale is iPad app that gives you everything you need to run and grow your business. Accept debit and credit cards with a Square Reader for magstripe. Use your point of sale system to keep track of sales and inventory in real time, manage items and employees, and view analytics about your business.
+<b>Under Testing </b>
+<p align="center">
+<img src="Luna1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Luna2.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Luna3.png" width="228" title="DarkRoom">
+</p>
+
   
 
 # WEBDOC

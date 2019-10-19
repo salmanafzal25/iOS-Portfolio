@@ -13,7 +13,7 @@
   
   # LUNA (Point Of Sale)
 LUNA Point of Sale is iPad app that gives you everything you need to run and grow your business. Accept debit and credit cards with a Square Reader for magstripe. Use your point of sale system to keep track of sales and inventory in real time, manage items and employees, and view analytics about your business.
-<b>Under Testing </b>
+<b>Under Development </b>
 <p align="center">
 <img src="Luna1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Luna2.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Luna3.png" width="228" title="DarkRoom">
 </p>

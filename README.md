@@ -74,6 +74,12 @@ App to deliver Food, Grocery, Bakery & Cafe, Medicine, Gifts, Flowers and more..
 </p>
 
 
+  # Peoply (SecialMedia App)
+[Peoply](https://webdoc.com)is social media apps that are the bare minimum for any social media marketer. They represent the biggest social platforms out there right now
+<p align="center">
+<img src="peoply1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="peoply2.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="peoply3.png" width="228" title="DarkRoom">
+</p>
+
 
 # Beeline bike navigation
 [Beeline bike navigation](https://apps.apple.com/pk/app/beeline-bike-navigation/id1095384281) is companion app by Beeline for Beeline Moto and Beeline Velo: the motorcycle and cycling computers with better navigation. Better riding starts here

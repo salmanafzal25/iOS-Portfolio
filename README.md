@@ -10,6 +10,17 @@
 <strong>Tools:</strong> GitHub, Bitbucker, Jira,Redmine, Trello, Skype </p>
   </div>
   
+  # Hello Doctor
+[WEBDOC](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=1) is a online Doctor's App. The basic requirements for the app were that it help address the health related problem by providing reliable online health platform which connects the Certified and Authorised Doctor’s to the Clients / Patients face to face on video / chat / audio calling.
+
+I'm quite happy with the final product: HelloDoctor was built entirely in Swift, with no external dependencies, and the UI—which was created using Auto Layout in Interface Builder—is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns.
+
+<!-- <img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF"><br><br> -->
+
+<p align="center">
+<img src="300x0w-2.jpg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="webdoc1.jpg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="300x0w-1.jpg" width="228" title="DarkRoom">
+</p>
+  
   
   # LUNA (Point Of Sale)
 LUNA Point of Sale is iPad app that gives you everything you need to run and grow your business. Accept debit and credit cards with a Square Reader for magstripe. Use your point of sale system to keep track of sales and inventory in real time, manage items and employees, and view analytics about your business.

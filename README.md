@@ -59,6 +59,12 @@ I'm quite happy with the final product: WEBDOC was built entirely in Swift, with
 
 
 
+# Flix - Video on demand servic App
+[Flix]() App is a Video on demand servic App where you can see video online on ios device <b>Under Developement </b>
+<p align="center">
+<img src="Flix1.PNG" width="230"  title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Flix2.jpeg" width="230" title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Flix3.gif" width="228" title="Flix">
+</p>
+
   # IPSEN (Career Development App)
 [Ipsen](https://www.ipsen.com) is a global specialty-driven biopharmaceutical group committed to discovering new solutions for targeted debilitating diseases and improving quality of life for patients.This XMapp application is intended to be a tool used to explore potential development opportunities for you to express an interest  and enable you to have discussions with your manager as you chart your career at Ipsen. This includes understanding the knowledge, skills, characteristics, and experiences that may be required for you to progress in your career.
 <p align="center">

@@ -62,7 +62,7 @@ I'm quite happy with the final product: WEBDOC was built entirely in Swift, with
 # Flix - Video on demand servic App
 [Flix]() App is a Video on demand servic App where you can see video online on ios device <b>Under Developement </b>
 <p align="center">
-<img src="Flix1.png" width="230"  title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Flix1.png" width="230" title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Flix1.png" width="228" title="Flix">
+<img src="Flix3.png" width="230"  title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Flix2.png" width="230" title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Flix1.png" width="228" title="Flix">
 </p>
 
   # IPSEN (Career Development App)

@@ -55,7 +55,11 @@ I'm quite happy with the final product: WEBDOC was built entirely in Swift, with
 <img src="medstore1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="medstore2.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="medstore2.png" width="228" title="DarkRoom">
 </p>
 
-
+# Mobile NewsPaper App
+[Mobile Akhbar]() App app will provide users to read online newspaper.
+<p align="center">
+<img src="akhbar1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="akhbar2.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="akhbar1.png" width="228" title="DarkRoom">
+</p>
 
 # Fowrry - Food Delivery and Online Shopping
 [Fowrry](https://apps.apple.com/pk/app/fowrry/id1456256168) App to deliver Food, Grocery, Bakery & Cafe, Medicine, Gifts, Flowers and more...Launched from Islamabad… from your favorite Local and International restaurants, outlets and stores...from anywhere within your city...delivered to your doorstep...Order in just 4 easy steps

@@ -56,7 +56,7 @@ I'm quite happy with the final product: WEBDOC was built entirely in Swift, with
 
 
 # Med Store
-[Med Store]() App to deliver Medicine. Launched from Pakistan from your favorite outlets and stores from anywhere within your city.delivered to your doorstep.
+[Med Store](https://apps.apple.com/us/app/id1520254548) App to deliver Medicine. Launched from Pakistan from your favorite outlets and stores from anywhere within your city.delivered to your doorstep.
 <p align="center">
 <img src="medstore1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="medstore2.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="medstore2.png" width="228" title="DarkRoom">
 </p>

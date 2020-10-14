@@ -65,7 +65,7 @@ I'm quite happy with the final product: WEBDOC was built entirely in Swift, with
 <b>Under Testing </b>
 
 # Let It Go (eXchange App like OLX)
-[Let It Go](https://apps.apple.com/us/app/id1520254548) App to deliver Medicine. Launched from Pakistan from your favorite outlets and stores from anywhere within your city.delivered to your doorstep.
+[Let It Go](https://) Join one of the biggest online marketplace apps! Install our selling and shopping app to start trading up secondhand items in the mobile marketplace!.
 <p align="center">
 <img src="medstore1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="medstore2.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="medstore3.png" width="228" title="DarkRoom">
 </p>

@@ -111,7 +111,7 @@ I'm quite happy with the final product: WEBDOC was built entirely in Swift, with
 # Goonj TV - Video on demand servic App
 [Goonj TV]() App is a Video on demand servic App where you can see video online on ios device <b>Under Developement </b>
 <p align="center">
-<img src="GoonjTV1.png" width="230"  title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="GoonjTV2.png" width="230" title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="GoonjTV3.png" width="228" title="Flix">
+<img src="GoonjTV1.png" width="230"  title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="GoonjTV2.jpeg" width="230" title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="GoonjTV3.jpeg" width="228" title="Flix">
 </p>
 <b>Under Testing</b>
 

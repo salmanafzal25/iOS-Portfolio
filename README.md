@@ -22,7 +22,7 @@ I'm quite happy with the final product: HelloDoctor was built entirely in Swift,
 </p>
   
   
-  # ROVR (MOBILIZING PHYSICIANS)
+  # ROVR (Mobilizing Physicians)
 [HelloDoctor](https://www.rovrmed.com)is the first step in giving physicians back their autonomy is to give back access to their data. We are a physician-led team that want to enable physicians to gain back access and control of their data and time.
 
 Our current system in data-sharing is inefficient and most physicians don’t have a secure application to store their own personal data. The first application of Rovr can be applied to our current system of physician verification, documentation/credentialing, recruitment and scheduling. It takes on average 90 days to on-board a physician to an area he is needed. We offer physicians to instantly self-verify themselves on Rovr -Physicians Hiring App- and store all their secure and most needed data on their profiles for exchange to healthcare facilities

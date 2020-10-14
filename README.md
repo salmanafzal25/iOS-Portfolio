@@ -10,7 +10,7 @@
 <strong>Tools:</strong> GitHub, Bitbucker, Jira,Redmine, Trello, Skype </p>
   </div>
   
-  # Hello Doctor
+  # Hello Doctor (Digital Healthcare Service)
 [HelloDoctor](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=1) is a online Doctor's App. The basic requirements for the app were that it help address the health related problem by providing reliable online health platform which connects the Certified and Authorised Doctor’s to the Clients / Patients face to face on video / chat / audio calling.
 
 I'm quite happy with the final product: HelloDoctor was built entirely in Swift, with no external dependencies, and the UI—which was created using Auto Layout in Interface Builder—is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns.
@@ -22,12 +22,17 @@ I'm quite happy with the final product: HelloDoctor was built entirely in Swift,
 </p>
   
   
-  # LUNA (Point Of Sale)
-LUNA Point of Sale is iPad app that gives you everything you need to run and grow your business. Accept debit and credit cards with a Square Reader for magstripe. Use your point of sale system to keep track of sales and inventory in real time, manage items and employees, and view analytics about your business.
-<b>Under Development </b>
+  # ROVR (MOBILIZING PHYSICIANS)
+[HelloDoctor](https://www.rovrmed.com)is the first step in giving physicians back their autonomy is to give back access to their data. We are a physician-led team that want to enable physicians to gain back access and control of their data and time.
+
+Our current system in data-sharing is inefficient and most physicians don’t have a secure application to store their own personal data. The first application of Rovr can be applied to our current system of physician verification, documentation/credentialing, recruitment and scheduling. It takes on average 90 days to on-board a physician to an area he is needed. We offer physicians to instantly self-verify themselves on Rovr -Physicians Hiring App- and store all their secure and most needed data on their profiles for exchange to healthcare facilities
+
+<!-- <img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF"><br><br> -->
+
 <p align="center">
-<img src="Luna1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Luna2.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Luna3.png" width="228" title="DarkRoom">
+<img src="HelloDoc1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HelloDoc2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HelloDoc3.png" width="228" title="HelloDoctor">
 </p>
+  
 
   
 
@@ -48,11 +53,12 @@ I'm quite happy with the final product: WEBDOC was built entirely in Swift, with
 <img src="Alghoneim1.PNG" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Alghoneim2.PNG" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Alghoneim3.PNG" width="228" title="DarkRoom">
 </p>
 
-# Al-Ghoneim Management
+<-- # Al-Ghoneim Management
 [Al-Ghoneim Management](https://apps.apple.com/us/app/id1523711905) This App is used for office management which contail Attendance, Driver, Supervisor, Reporting Modules.
 <p align="center">
 <img src="Manage1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Manage2.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Manage3.png" width="228" title="DarkRoom">
 </p>
+-->
 
 
 # Med Store

@@ -23,10 +23,11 @@ I'm quite happy with the final product: HelloDoctor was built entirely in Swift,
   
   
   # ROVR (Mobilizing Physicians)
-[HelloDoctor](https://www.rovrmed.com)is the first step in giving physicians back their autonomy is to give back access to their data. We are a physician-led team that want to enable physicians to gain back access and control of their data and time.
+[ROVR](https://www.rovrmed.com)is the first step in giving physicians back their autonomy is to give back access to their data. We are a physician-led team that want to enable physicians to gain back access and control of their data and time.
 
 Our current system in data-sharing is inefficient and most physicians don’t have a secure application to store their own personal data. The first application of Rovr can be applied to our current system of physician verification, documentation/credentialing, recruitment and scheduling. It takes on average 90 days to on-board a physician to an area he is needed. We offer physicians to instantly self-verify themselves on Rovr -Physicians Hiring App- and store all their secure and most needed data on their profiles for exchange to healthcare facilities
 
+<b>Under Testing </b>
 <!-- <img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF"><br><br> -->
 
 <p align="center">
@@ -61,7 +62,14 @@ I'm quite happy with the final product: WEBDOC was built entirely in Swift, with
 <p align="center">
 <img src="medstore1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="medstore2.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="medstore3.png" width="228" title="DarkRoom">
 </p>
+<b>Under Testing </b>
 
+# Let It Go (eXchange App like OLX)
+[Let It Go](https://apps.apple.com/us/app/id1520254548) App to deliver Medicine. Launched from Pakistan from your favorite outlets and stores from anywhere within your city.delivered to your doorstep.
+<p align="center">
+<img src="medstore1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="medstore2.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="medstore3.png" width="228" title="DarkRoom">
+</p>
+<b>Under Testing </b>
 
 
 # Here At My Local
@@ -90,12 +98,14 @@ I'm quite happy with the final product: WEBDOC was built entirely in Swift, with
 <p align="center">
 <img src="Flix3.png" width="230"  title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Flix2.png" width="230" title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Flix1.png" width="228" title="Flix">
 </p>
+<b>Under Developement </b>
 
 # Deikho - Video on demand servic App
 [Deikho]() App is a Video on demand servic App where you can see video online on ios device <b>Under Developement </b>
 <p align="center">
 <img src="deikho1.png" width="230"  title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="deikho2.png" width="230" title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="deikho3.png" width="228" title="Flix">
 </p>
+<b>Under Testing</b>
 
   # IPSEN (Career Development App)
 [Ipsen](https://www.ipsen.com) is a global specialty-driven biopharmaceutical group committed to discovering new solutions for targeted debilitating diseases and improving quality of life for patients.This XMapp application is intended to be a tool used to explore potential development opportunities for you to express an interest  and enable you to have discussions with your manager as you chart your career at Ipsen. This includes understanding the knowledge, skills, characteristics, and experiences that may be required for you to progress in your career.

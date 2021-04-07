@@ -53,6 +53,39 @@ I'm quite happy with the final product: HelloDoctor was built entirely in Swift,
 <img src="goomShoping1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="goomShoping2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="goomShoping3.png" width="228" title="HelloDoctor">
 </p>
   
+        # TH-Auction (fitness app)
+[PC Hotel](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Rooms reservation and food delivery App.
+
+<p align="center">
+<img src="pc1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="pc2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="pc2.png" width="228" title="HelloDoctor">
+</p>
+  
+  
+  
+          # TH-Auction (fitness app)
+[Roomph](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Hotel reservation App.
+
+<p align="center">
+<img src="roomph1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="roomph2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="roomph3.png" width="228" title="HelloDoctor">
+</p>
+  
+  
+            # TH-Auction (fitness app)
+[JOJO](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Money Transfer App.
+
+<p align="center">
+<img src="jojo1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="jojo2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="jojo3.png" width="228" title="HelloDoctor">
+</p>
+  
+  
+  
+              # TH-Auction (fitness app)
+[Cloud Mining](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Money Transfer App.
+
+<p align="center">
+<img src="cloudmining1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="cloudmining2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="cloudmining3.png" width="228" title="HelloDoctor">
+</p>
+  
   # ROVR (Mobilizing Physicians)
 [ROVR](https://www.rovrmed.com)is the first step in giving physicians back their autonomy is to give back access to their data. We are a physician-led team that want to enable physicians to gain back access and control of their data and time.
 

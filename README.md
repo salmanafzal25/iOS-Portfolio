@@ -20,7 +20,38 @@ I'm quite happy with the final product: HelloDoctor was built entirely in Swift,
 <p align="center">
 <img src="HelloDoc1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HelloDoc2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HelloDoc3.png" width="228" title="HelloDoctor">
 </p>
+
+
+  # UAE-Barq (fitness app)
+[UAE-BARQ](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Fitness App. in this app animation is used to demonstrate different exercises.
+
+<p align="center">
+<img src="uarBarq1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="uarBarq2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="uarBarq3.png" width="228" title="HelloDoctor">
+</p>
   
+  
+    # TH-Auction (fitness app)
+[TH-Auction](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Auction App.
+
+<p align="center">
+<img src="thAuction1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="thAuction2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="thAuction3.png" width="228" title="HelloDoctor">
+</p>
+  
+  
+      # TH-Auction (fitness app)
+[Alazba](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Animal Auction App.
+
+<p align="center">
+<img src="alazba1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="alazba2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="alazba3.png" width="228" title="HelloDoctor">
+</p>
+
+
+      # TH-Auction (fitness app)
+[Goom Shoping](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Shoping App.
+
+<p align="center">
+<img src="goomShoping1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="goomShoping2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="goomShoping3.png" width="228" title="HelloDoctor">
+</p>
   
   # ROVR (Mobilizing Physicians)
 [ROVR](https://www.rovrmed.com)is the first step in giving physicians back their autonomy is to give back access to their data. We are a physician-led team that want to enable physicians to gain back access and control of their data and time.

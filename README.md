@@ -78,6 +78,15 @@ I'm quite happy with the final product: HelloDoctor was built entirely in Swift,
 </p>
   
   
+   # AWQAF UAE (Online AWQAF Services)
+[AWQAF UAE](https://apps.apple.com/ae/app/awqaf-uae-app/id1499083710) is an islamic services provider app build for UAE government that support multi language and azan time  and hajj and umrah services registration and online payment , donation, uae pass integration and all the other services offered by AWQAF department of UAE government.
+
+<!-- <img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF"><br><br> -->
+
+<p align="center">
+<img src="awqaf1.png" width="230"  title="AWQAF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="awqaf2.png" width="230" title="AWQAF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="awqaf3.png" width="228" title="AWQAF">
+</p>
+  
   
               # TH-Auction (fitness app)
 [Cloud Mining](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Money Transfer App.

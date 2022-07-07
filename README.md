@@ -28,36 +28,6 @@ I'm quite happy with the final product: HelloDoctor was built entirely in Swift,
 </p>
 
 
-  # UAE-Barq (fitness app)
-[UAE-BARQ](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Fitness App. in this app animation is used to demonstrate different exercises.
-
-<p align="center">
-<img src="uarBarq1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="uarBarq2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="uarBarq3.png" width="228" title="HelloDoctor">
-</p>
-  
-  
-    # TH-Auction (fitness app)
-[TH-Auction](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Auction App.
-
-<p align="center">
-<img src="thAuction1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="thAuction2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="thAuction3.png" width="228" title="HelloDoctor">
-</p>
-  
-  
-      # TH-Auction (fitness app)
-[Alazba](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Animal Auction App.
-
-<p align="center">
-<img src="alazba1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="alazba2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="alazba3.png" width="228" title="HelloDoctor">
-</p>
-
-
-      # TH-Auction (fitness app)
-[Goom Shoping](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Shoping App.
-
-<p align="center">
-<img src="goomShoping1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="goomShoping2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="goomShoping3.png" width="228" title="HelloDoctor">
-</p>
   
         # TH-Auction (fitness app)
 [PC Hotel](https://apps.apple.com/tt/app/pearl-continental-hotels/id1550247739) is a Online Rooms reservation and food delivery App.
@@ -76,13 +46,7 @@ I'm quite happy with the final product: HelloDoctor was built entirely in Swift,
 </p>
   
   
-            # TH-Auction (fitness app)
-[JOJO](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Money Transfer App.
 
-<p align="center">
-<img src="jojo1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="jojo2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="jojo3.png" width="228" title="HelloDoctor">
-</p>
-  
   
    # AWQAF UAE (Online AWQAF Services)
 [AWQAF UAE](https://apps.apple.com/ae/app/awqaf-uae-app/id1499083710) is an islamic services provider app build for UAE government that support multi language and azan time  and hajj and umrah services registration and online payment , donation, uae pass integration and all the other services offered by AWQAF department of UAE government.
@@ -94,24 +58,7 @@ I'm quite happy with the final product: HelloDoctor was built entirely in Swift,
 </p>
   
   
-              # TH-Auction (fitness app)
-[Cloud Mining](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Money Transfer App.
 
-<p align="center">
-<img src="cloudmining1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="cloudmining2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="cloudmining3.png" width="228" title="HelloDoctor">
-</p>
-  
-  # ROVR (Mobilizing Physicians)
-[ROVR](https://www.rovrmed.com)is the first step in giving physicians back their autonomy is to give back access to their data. We are a physician-led team that want to enable physicians to gain back access and control of their data and time.
-
-Our current system in data-sharing is inefficient and most physicians don’t have a secure application to store their own personal data. The first application of Rovr can be applied to our current system of physician verification, documentation/credentialing, recruitment and scheduling. It takes on average 90 days to on-board a physician to an area he is needed. We offer physicians to instantly self-verify themselves on Rovr -Physicians Hiring App- and store all their secure and most needed data on their profiles for exchange to healthcare facilities
-
-<b>Under Testing </b>
-<!-- <img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF"><br><br> -->
-
-<p align="center">
-<img src="ROVR1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ROVR2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ROVR3.png" width="228" title="HelloDoctor">
-</p>
   
 
   
@@ -166,7 +113,7 @@ I'm quite happy with the final product: WEBDOC was built entirely in Swift, with
 </p>
 
 # Mobile NewsPaper App
-[Mobile Akhbar]() App app will provide users to read online newspaper.
+[Mobile Akhbar](https://play.google.com/store/apps/details?id=com.ideation.telenornews&hl=en&gl=US) App app will provide users to read online newspaper.
 <p align="center">
 <img src="akhbar1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="akhbar2.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="akhbar3.png" width="228" title="DarkRoom">
 </p>
@@ -195,6 +142,26 @@ I'm quite happy with the final product: WEBDOC was built entirely in Swift, with
 <b>Under Testing</b>
 
 
+              # TH-Auction (fitness app)
+[Cloud Mining](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Money Transfer App.
+
+<p align="center">
+<img src="cloudmining1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="cloudmining2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="cloudmining3.png" width="228" title="HelloDoctor">
+</p>
+  
+  # ROVR (Mobilizing Physicians)
+[ROVR](https://www.rovrmed.com)is the first step in giving physicians back their autonomy is to give back access to their data. We are a physician-led team that want to enable physicians to gain back access and control of their data and time.
+
+Our current system in data-sharing is inefficient and most physicians don’t have a secure application to store their own personal data. The first application of Rovr can be applied to our current system of physician verification, documentation/credentialing, recruitment and scheduling. It takes on average 90 days to on-board a physician to an area he is needed. We offer physicians to instantly self-verify themselves on Rovr -Physicians Hiring App- and store all their secure and most needed data on their profiles for exchange to healthcare facilities
+
+<b>Under Testing </b>
+<!-- <img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF"><br><br> -->
+
+<p align="center">
+<img src="ROVR1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ROVR2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ROVR3.png" width="228" title="HelloDoctor">
+</p>
+
+
 # Goonj TV - Video on demand servic App
 [Goonj TV]() App is a Video on demand servic App where you can see video online on ios device <b>Under Developement </b>
 <p align="center">
@@ -208,6 +175,14 @@ I'm quite happy with the final product: WEBDOC was built entirely in Swift, with
 <img src="ipsen1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ipsen2.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ipsen3.png" width="228" title="DarkRoom">
 </p>
 
+
+            # TH-Auction (fitness app)
+[JOJO](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Money Transfer App.
+
+<p align="center">
+<img src="jojo1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="jojo2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="jojo3.png" width="228" title="HelloDoctor">
+</p>
+  
 
   # Hire Well (Recruiting App)
 [Hirewell](https://hirewell.com)is a Chicago-based recruiting and staffing firm with specialized teams dedicated to technology, digital marketing, creative, human resources, and sales.
@@ -300,6 +275,39 @@ Who says trivia isn't useful? You will keep your brain sharp with Quiz Me. We ha
 
 <p align="center">
 <img src="trading1.PNG" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="trading2.PNG" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="3ca5m7.gif" width="228" title="DarkRoom">
+</p>
+
+
+
+  # UAE-Barq (fitness app)
+[UAE-BARQ](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Fitness App. in this app animation is used to demonstrate different exercises.
+
+<p align="center">
+<img src="uarBarq1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="uarBarq2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="uarBarq3.png" width="228" title="HelloDoctor">
+</p>
+  
+  
+    # TH-Auction (fitness app)
+[TH-Auction](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Auction App.
+
+<p align="center">
+<img src="thAuction1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="thAuction2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="thAuction3.png" width="228" title="HelloDoctor">
+</p>
+  
+  
+      # TH-Auction (fitness app)
+[Alazba](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Animal Auction App.
+
+<p align="center">
+<img src="alazba1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="alazba2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="alazba3.png" width="228" title="HelloDoctor">
+</p>
+
+
+      # TH-Auction (fitness app)
+[Goom Shoping](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Shoping App.
+
+<p align="center">
+<img src="goomShoping1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="goomShoping2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="goomShoping3.png" width="228" title="HelloDoctor">
 </p>
 
 

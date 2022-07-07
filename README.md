@@ -20,7 +20,7 @@ I'm quite happy with the final product: HelloDoctor was built entirely in Swift,
 </p>
 
  # talkLITE (Digital Healthcare Service)
-[HelloDoctor](https://apps.apple.com/us/app/talklite/id1610772139) is an application with versatile features to facilitate providers to handle schedular, view medical history, view lab reports, Create New Encounters or View Previous Ones while conducting a Telehealth visit or office visit.
+[talkLITE](https://apps.apple.com/us/app/talklite/id1610772139) is an application with versatile features to facilitate providers to handle schedular, view medical history, view lab reports, Create New Encounters or View Previous Ones while conducting a Telehealth visit or office visit.
 
 
 <p align="center">

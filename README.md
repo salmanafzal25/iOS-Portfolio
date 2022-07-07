@@ -54,7 +54,7 @@ I'm quite happy with the final product: HelloDoctor was built entirely in Swift,
 </p>
   
         # TH-Auction (fitness app)
-[PC Hotel](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Rooms reservation and food delivery App.
+[PC Hotel](https://apps.apple.com/tt/app/pearl-continental-hotels/id1550247739) is a Online Rooms reservation and food delivery App.
 
 <p align="center">
 <img src="pc1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="pc2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="pc2.png" width="228" title="HelloDoctor">
@@ -63,7 +63,7 @@ I'm quite happy with the final product: HelloDoctor was built entirely in Swift,
   
   
           # TH-Auction (fitness app)
-[Roomph](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Hotel reservation App.
+[Roomph](https://apps.apple.com/ae/app/roomph/id1558380563) is a Online Hotel reservation App.
 
 <p align="center">
 <img src="roomph1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="roomph2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="roomph3.png" width="228" title="HelloDoctor">

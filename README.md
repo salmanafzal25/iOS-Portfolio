@@ -22,7 +22,7 @@ I'm quite happy with the final product: HelloDoctor was built entirely in Swift,
 <!-- <img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF"><br><br> -->
 
 <p align="center">
-<img src="HelloDoc1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HelloDoc2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HelloDoc3.png" width="228" title="HelloDoctor">
+<img src="talkLite1.png" width="230"  title="talkLite">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="talkLite2.png" width="230" title="talkLite">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="talkLite3.png" width="228" title="talkLite">
 </p>
 
 

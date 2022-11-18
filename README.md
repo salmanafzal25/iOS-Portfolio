@@ -15,10 +15,6 @@
 
 I'm quite happy with the final product: HelloDoctor was built entirely in Swift, with no external dependencies, and the UI—which was created using Auto Layout in Interface Builder—is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns.
 
-<p align="center">
-<img src="HelloDoc1.png" width="250" align="center" title="HelloDoc1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HelloDoc2.png" width="250" align="center" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HelloDoc3.png" width="250" align="center" title=""><br><br>
-</p>
-
  # talkLITE (Digital Healthcare Service)
 [talkLITE](https://apps.apple.com/us/app/talklite/id1610772139) is an application with versatile features to facilitate providers to handle schedular, view medical history, view lab reports, Create New Encounters or View Previous Ones while conducting a Telehealth visit or office visit.
 
@@ -26,6 +22,13 @@ I'm quite happy with the final product: HelloDoctor was built entirely in Swift,
 <p align="center">
 <img src="talkLite1.png" width="230"  title="talkLite">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="talkLite2.png" width="230" title="talkLite">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="talkLite3.png" width="228" title="talkLite">
 </p>
+
+
+<p align="center">
+<img src="HelloDoc1.png" width="250" align="center" title="HelloDoc1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HelloDoc2.png" width="250" align="center" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HelloDoc3.png" width="250" align="center" title=""><br><br>
+</p>
+
+
 
 
   
@@ -54,7 +57,7 @@ I'm quite happy with the final product: HelloDoctor was built entirely in Swift,
 <!-- <img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF"><br><br> -->
 
 <p align="center">
-<img src="awqaf1.PNG" width="230"  title="AWQAF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="awqaf2.PNG" width="230" title="AWQAF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="awqaf3.PNG" width="228" title="AWQAF">
+<img src="AWQAF.UAE1.PNG" width="230"  title="AWQAF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="AWQAF.UAE2.PNG" width="230" title="AWQAF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="AWQAF.UAE3.PNG" width="228" title="AWQAF">
 </p>
   
   

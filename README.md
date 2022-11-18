@@ -199,23 +199,6 @@ Our current system in data-sharing is inefficient and most physicians don’t ha
 </p>
 
 
-# Doctors For Helath
-Doctors For Helath is a online Doctor's App. The basic requirements for the app were that it help address the health related problem by providing reliable online health platform which connects the Certified and Authorised Doctor’s to the Clients / Patients face to face on video / chat / audio calling.
-
-
-<!-- <img src="images/darkroom/DarkRoomMaster.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/DarkRoomDetail.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/Darkroom-demo.gif" width="250" align="center" title="Darkroom GIF"><br><br> -->
-
-<p align="center">
-<img src="hoctorForHealth1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="hoctorForHealth2.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="hoctorForHealth3.png" width="228" title="DarkRoom">
-</p>
-
-
-  # Peoply (SecialMedia App)
-[Peoply](https://webdoc.com)is social media apps that are the bare minimum for any social media marketer. They represent the biggest social platforms out there right now
-<p align="center">
-<img src="peoply1.jpg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="peoply2.jpg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="peoply3.jpg" width="228" title="DarkRoom">
-</p>
-
 
 # Beeline bike navigation
 [Beeline bike navigation](https://apps.apple.com/pk/app/beeline-bike-navigation/id1095384281) is companion app by Beeline for Beeline Moto and Beeline Velo: the motorcycle and cycling computers with better navigation. Better riding starts here

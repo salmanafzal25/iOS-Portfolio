@@ -199,19 +199,6 @@ Our current system in data-sharing is inefficient and most physicians don’t ha
 </p>
 
 
-
-# Beeline bike navigation
-[Beeline bike navigation](https://apps.apple.com/pk/app/beeline-bike-navigation/id1095384281) is companion app by Beeline for Beeline Moto and Beeline Velo: the motorcycle and cycling computers with better navigation. Better riding starts here
-PLAN AND TRACK YOUR RIDE
-Plan your route with our route planner with integrated Google search.
-
-I'm quite happy with the final product:  Beeline bike navigation was built entirely in Swift, google maps API and the UI—which was created using Auto Layout in Interface Builder—is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns.
-
-<p align="center">
-<img src="460x0w-1.jpg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="460x0w-2.jpg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mapsCycle3.gif" width="228" height = "500" title="DarkRoom">
-</p>
-
-
 # Recordio Voice Note Recorder
  [Recordio Voice Note Recorder](https://appstores.co/app/1449571837/recordio-voice-note-recorder) is an audio recorder, recorder for lectures, memos, meetings and more. Best recorder for voice recording with high quality voice recorder application is simple and easy to use. Organize and edit recordings on your phone. Share via email.
 

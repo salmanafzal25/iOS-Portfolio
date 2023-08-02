@@ -5,7 +5,7 @@
 
 
 <h2 id="skills">Skills</h2>
-<p>Currently using <strong>Swift</strong>, 1.5yrs, through all versions up to recent v5.0<br>
+<p>Currently using <strong>Swift</strong>, +5yrs, through all versions up to recent v5.0<br>
 <strong>REST, GraphQL(Apollo), Firebase, Unit Tests, CoreData, CoreGraphics, CoreAnimation,Amazon S3 Bucket, Google Maps, Map box, Map Kit, One signal, Agora, Sinch, AVFoundation, Accessibility, Apple Account Creation And Maintenance  Publish iOS app on appstore</strong><br>
 <strong>Tools:</strong> GitHub, Bitbucker, Jira,Redmine, Trello, Skype </p>
   </div>

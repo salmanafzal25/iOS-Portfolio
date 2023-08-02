@@ -1,7 +1,7 @@
 # Salman Afzal - iOS Developer
 
 <div class="entry">
-    <p>Software Engineer as an iOS Developer since <strong>more than 1.5yrs</strong>. Developed native iOS apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.<br>
+    <p>Software Engineer as an iOS Developer since <strong>more than 5 Years </strong>. Developed native iOS apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.<br>
 
 
 <h2 id="skills">Skills</h2>
